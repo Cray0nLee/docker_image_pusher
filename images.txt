@@ -1,4 +1,5 @@
-nginx
+mysql:5.7
 #支持私库
+crpi-emuw0infjpyck0t0.cn-guangzhou.personal.cr.aliyuncs.com
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
